@@ -6,24 +6,23 @@ layout: home
 
 We shall cover broadly the following topics at some level of detail, explored incrementally.
 
-- The state of data architecture
+# The state of data architecture
 
-Focusing on how data organizations remain the last bastions of fully monolithic, hypeerspcialized silos. We will talk about the obvious shortcomings of these models in the face of evolving needs of today. We will evaluate emergent data architecture blueprints and attempt to harmonize this with the notion of the data mesh.
+Focusing on how data organizations remain the last bastions of fully monolithic, hypeerspcialized silos. We will talk about the obvious shortcomings of these models in the face of evolving needs of today. We will evaluate emergent data architecture blueprints and attempt to harmonize this with the notion of the data mesh and provide an opinion on how/where these intersect.
 
-- Breaking the data monolith
-
+# Breaking the data monolith
+ 
 Data monoliths today are bigger than ever. Breaking it is less (or more) trivial than it seems, depending on how you look at it. We will attempt to apply principles of domain driven systems design, microservices & cloud native architectures to provide a contrast as well as distilled patterns on how to modernize your data landscape, incrementally.
 
-- Dissecting the data organization
+# Dissecting the data organization
 
 It is a well known fact that teams produce technical architectures that model their own org structure. We will attempt to address how this is a fundamental reorientation that is needed to make your organization more data driven. We will also touch upon the aspects of domain driven data ownership, autonomy and decentralization, but with governance.
 
-- The data mesh & infrastructure underpinnings
+# Realizing the data mesh: implementation & infrastructure underpinnings
 
-The data mesh is infact a technology solution and is built on a foundation of enterprise-grade tooling. This involves, but is not limited to event/data brokers, storage, stream processing, networking & the general gamut of integration & cloud native tooling. We will attempt to disambiguate what a data mesh in flesh and blood would look like, when deployed across an enterprise.
+The data mesh is infact a technology solution and is built on a foundation of enterprise-grade tooling. This involves, but is not limited to event/data brokers, storage, stream processing, networking & the general gamut of integration & cloud native tooling. We will attempt to disambiguate what a data mesh in flesh and blood would look like, when deployed across an enterprise. We will also address architecture, abstractions, separation of concerns involving the mesh in itself, as well as those upstream, downstream. Finally, we will explore concrete technologies to address a real, working implementation (including a discussion on build vs buy)
 
-- Adoption & maturity model
+# Adoption & maturity model
 
-The data mesh is finally not a silver bullet to solving anything. We genuinely believe that there is value in it as an operating model as exemplified by early adopters & piooners; In this chapter, we will look at how you can evolve a realistic roadmap to adopt & mature. 
-
+The data mesh is finally not a silver bullet to solving anything. We genuinely believe that there is value in it as an operating model as exemplified by early adopters & piooners; In this chapter, we will look at how your organization can find value and transition incrementally towards maturity. 
 
