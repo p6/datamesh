@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# The Data Mesh Gitbook initiative
-
 2021 has generated a lot of hype about the data mesh. Although, Zhamak's original thesis on this topic appeared first in 2019, the theme is still fuzzy in many people's heads. This is maily because the original idea is more descriptively theoretical in nature and stops short of a practical view. From our perspective, we find the idea powerful but needing to be supplemented with prescriptive approaches focused on a light weight implementation framework enterprises can use, if not adopting it at scale. There have been a few implementations out in the wild, which we will attempt to cover as case studies, including those in our experience. However, we're cognizant that these are still evolving and that our thoughts must be revised within the reality of what can actually be adopted into production by an aspirational organization.
 
 We shall cover broadly the following topics at some level of detail, explored incrementally.
@@ -26,6 +24,6 @@ The data mesh is infact a technology solution and is built on a foundation of en
 
 - Adoption & maturity model
 
-The data mesh is finally not a silver bullet to solving anything. We genuinely believe that there is value in it as an operating model as exemplified by early adopters & piooners; In this chapter, we will look at how you can evolve a realistic roadmap to adopt & mature. We 
+The data mesh is finally not a silver bullet to solving anything. We genuinely believe that there is value in it as an operating model as exemplified by early adopters & piooners; In this chapter, we will look at how you can evolve a realistic roadmap to adopt & mature. 
 
 
