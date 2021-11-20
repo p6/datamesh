@@ -82,3 +82,5 @@ https://www.mckinsey.de/business-functions/mckinsey-digital/our-insights/toward-
 https://www.forbes.com/sites/peterbendorsamuel/2018/08/09/how-your-companys-it-group-must-change-to-support-digital-transformation/amp/
 
 https://www.pioneeringminds.com/alfred-sloan-organizing-corporation/
+
+https://future.a16z.com/emerging-architectures-modern-data-infrastructure/
